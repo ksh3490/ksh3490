@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ksh349021@gmail.com (Ukulele Kim)</managingEditor>
       <webMaster>ksh349021@gmail.com (Ukulele Kim)</webMaster>
-      <lastBuildDate>Sun, 06 Nov 2022 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 07 Nov 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/devops/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/20221107</guid>
+    <title>Docker에서 사용하는 파일 시스템</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/20221107</link>
+    <description>Docker에서 사용하는 파일 시스템(UFS)에 대해 알아봅니다.</description>
+    <pubDate>Mon, 07 Nov 2022 00:00:00 GMT</pubDate>
+    <author>ksh349021@gmail.com (Ukulele Kim)</author>
+    <category>Docker</category><category>File System</category><category>DevOps</category>
+  </item>
+
   <item>
     <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/20221106</guid>
     <title>무중단 배포의 종류와 설명</title>

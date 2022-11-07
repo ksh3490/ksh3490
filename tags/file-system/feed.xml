@@ -8,7 +8,7 @@
       <managingEditor>ksh349021@gmail.com (Ukulele Kim)</managingEditor>
       <webMaster>ksh349021@gmail.com (Ukulele Kim)</webMaster>
       <lastBuildDate>Mon, 07 Nov 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/docker/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/file-system/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
     <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/20221107</guid>
@@ -18,16 +18,6 @@
     <pubDate>Mon, 07 Nov 2022 00:00:00 GMT</pubDate>
     <author>ksh349021@gmail.com (Ukulele Kim)</author>
     <category>Docker</category><category>File System</category><category>DevOps</category>
-  </item>
-
-  <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/202211041447</guid>
-    <title>Docker에서 사용하는 네트워크 개요</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/202211041447</link>
-    <description>Docker 네트워크의 종류</description>
-    <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
-    <author>ksh349021@gmail.com (Ukulele Kim)</author>
-    <category>Docker</category><category>Network</category><category>DevOps</category>
   </item>
 
     </channel>
