@@ -37,6 +37,10 @@
   </url>
 
   <url>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/20221110</loc>
+  </url>
+
+  <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/cicd</loc>
   </url>
 
