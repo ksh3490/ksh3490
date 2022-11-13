@@ -65,15 +65,15 @@
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/file-system</loc>
-  </url>
-
-  <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/kubernetes</loc>
   </url>
 
   <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/network</loc>
+  </url>
+
+  <url>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/file-system</loc>
   </url>
 
   <url>
