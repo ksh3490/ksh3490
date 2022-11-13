@@ -21,10 +21,6 @@
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/About-Tendermint/20221113</loc>
-  </url>
-
-  <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/20221104</loc>
   </url>
 
@@ -42,6 +38,10 @@
 
   <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/20221110</loc>
+  </url>
+
+  <url>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/About-Tendermint/20221113</loc>
   </url>
 
   <url>
@@ -65,15 +65,15 @@
   </url>
 
   <url>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/file-system</loc>
+  </url>
+
+  <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/kubernetes</loc>
   </url>
 
   <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/network</loc>
-  </url>
-
-  <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/file-system</loc>
   </url>
 
   <url>
