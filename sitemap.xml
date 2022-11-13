@@ -41,6 +41,14 @@
   </url>
 
   <url>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/About-Tendermint/20221113</loc>
+  </url>
+
+  <url>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/blockchain</loc>
+  </url>
+
+  <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/cicd</loc>
   </url>
 
@@ -66,5 +74,9 @@
 
   <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/network</loc>
+  </url>
+
+  <url>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/tendermint</loc>
   </url>
 </urlset>

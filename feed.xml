@@ -21,6 +21,16 @@
   </item>
 
   <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/About-Tendermint/20221113</guid>
+    <title>Tendermint란?</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/About-Tendermint/20221113</link>
+    <description>Cosmos에서 개발한 블록체인 애플리케이션 플랫폼, Tendermint에 대해 알아봅니다.</description>
+    <pubDate>Thu, 10 Nov 2022 00:00:00 GMT</pubDate>
+    <author>ksh349021@gmail.com (Ukulele Kim)</author>
+    <category>Tendermint</category><category>Blockchain</category>
+  </item>
+
+  <item>
     <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/20221108</guid>
     <title>Kubernetes의 구성 요소</title>
     <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/20221108</link>
