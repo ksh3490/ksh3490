@@ -21,6 +21,16 @@
   </item>
 
   <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/20221111</guid>
+    <title>Kubernetes의 Service Type</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/20221111</link>
+    <description>Kubernetes의 Service에 할당할 수 있는 Type인 ClusterIP, NodePort, LoadBalancer와 Ingress에 대해 알아봅니다.</description>
+    <pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate>
+    <author>ksh349021@gmail.com (Ukulele Kim)</author>
+    <category>Kubernetes</category><category>Network</category><category>DevOps</category>
+  </item>
+
+  <item>
     <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/20221110</guid>
     <title>Dockerfile의 ADD vs COPY</title>
     <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/20221110</link>
