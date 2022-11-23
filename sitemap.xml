@@ -49,6 +49,10 @@
   </url>
 
   <url>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/20221123</loc>
+  </url>
+
+  <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/About-Tendermint/20221113</loc>
   </url>
 
@@ -69,11 +73,11 @@
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/file-system</loc>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/docker</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/docker</loc>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/file-system</loc>
   </url>
 
   <url>
