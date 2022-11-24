@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ksh349021@gmail.com (Ukulele Kim)</managingEditor>
       <webMaster>ksh349021@gmail.com (Ukulele Kim)</webMaster>
-      <lastBuildDate>Wed, 23 Nov 2022 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 24 Nov 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/About-Tendermint/20221124</guid>
+    <title>Tendermint란? - 2</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/About-Tendermint/20221124</link>
+    <description>Tendermint와 기존 키-밸류 저장소를 비교해봅니다.</description>
+    <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
+    <author>ksh349021@gmail.com (Ukulele Kim)</author>
+    <category>Tendermint</category><category>Blockchain</category>
+  </item>
+
   <item>
     <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/20221123</guid>
     <title>Dockerfile의 RUN, CMD, ENTRYPOINT 명령어</title>
@@ -32,7 +42,7 @@
 
   <item>
     <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/About-Tendermint/20221113</guid>
-    <title>Tendermint란?</title>
+    <title>Tendermint란? - 1</title>
     <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/About-Tendermint/20221113</link>
     <description>Cosmos에서 개발한 블록체인 애플리케이션 플랫폼, Tendermint에 대해 알아봅니다.</description>
     <pubDate>Sun, 13 Nov 2022 00:00:00 GMT</pubDate>
